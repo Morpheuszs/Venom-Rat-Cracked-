@@ -1,0 +1,17 @@
+<settings>
+  <ShowToU>False</ShowToU>
+  <ListenPort>4782</ListenPort>
+  <IPv6Support>True</IPv6Support>
+  <AutoListen>True</AutoListen>
+  <ShowPopup>True</ShowPopup>
+  <Password>1234</Password>
+  <UseUPnP>False</UseUPnP>
+  <ShowToolTip>True</ShowToolTip>
+  <EnableNoIPUpdater>False</EnableNoIPUpdater>
+  <NoIPHost>
+  </NoIPHost>
+  <NoIPUsername>
+  </NoIPUsername>
+  <NoIPPassword>
+  </NoIPPassword>
+</settings>
